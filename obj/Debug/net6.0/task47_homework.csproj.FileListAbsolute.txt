@@ -1,0 +1,15 @@
+C:\Users\Lidiya\Desktop\GeekBrains\Seminar6\task47_homework\obj\Debug\net6.0\task47_homework.csproj.AssemblyReference.cache
+C:\Users\Lidiya\Desktop\GeekBrains\Seminar6\task47_homework\obj\Debug\net6.0\task47_homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lidiya\Desktop\GeekBrains\Seminar6\task47_homework\obj\Debug\net6.0\task47_homework.AssemblyInfoInputs.cache
+C:\Users\Lidiya\Desktop\GeekBrains\Seminar6\task47_homework\obj\Debug\net6.0\task47_homework.AssemblyInfo.cs
+C:\Users\Lidiya\Desktop\GeekBrains\Seminar6\task47_homework\obj\Debug\net6.0\task47_homework.csproj.CoreCompileInputs.cache
+C:\Users\Lidiya\Desktop\GeekBrains\Seminar6\task47_homework\bin\Debug\net6.0\task47_homework.exe
+C:\Users\Lidiya\Desktop\GeekBrains\Seminar6\task47_homework\bin\Debug\net6.0\task47_homework.deps.json
+C:\Users\Lidiya\Desktop\GeekBrains\Seminar6\task47_homework\bin\Debug\net6.0\task47_homework.runtimeconfig.json
+C:\Users\Lidiya\Desktop\GeekBrains\Seminar6\task47_homework\bin\Debug\net6.0\task47_homework.dll
+C:\Users\Lidiya\Desktop\GeekBrains\Seminar6\task47_homework\bin\Debug\net6.0\task47_homework.pdb
+C:\Users\Lidiya\Desktop\GeekBrains\Seminar6\task47_homework\obj\Debug\net6.0\task47_homework.dll
+C:\Users\Lidiya\Desktop\GeekBrains\Seminar6\task47_homework\obj\Debug\net6.0\refint\task47_homework.dll
+C:\Users\Lidiya\Desktop\GeekBrains\Seminar6\task47_homework\obj\Debug\net6.0\task47_homework.pdb
+C:\Users\Lidiya\Desktop\GeekBrains\Seminar6\task47_homework\obj\Debug\net6.0\task47_homework.genruntimeconfig.cache
+C:\Users\Lidiya\Desktop\GeekBrains\Seminar6\task47_homework\obj\Debug\net6.0\ref\task47_homework.dll
